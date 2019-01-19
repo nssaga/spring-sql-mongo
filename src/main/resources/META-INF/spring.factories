@@ -1,0 +1,4 @@
+
+# Environment Post Processor
+org.springframework.boot.env.EnvironmentPostProcessor=\
+ns.org.app.dbsource.config.DBEnvironmentPostProcessor
